@@ -1,6 +1,6 @@
 # python_code.py
 
-## Authors: William Harley, Jackson Long, Oscar Cisneros, David Degman
+## Authors: Students
 
 ## Last Revision: 12/4/2019
 
