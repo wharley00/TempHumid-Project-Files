@@ -68,7 +68,7 @@ ser.close()
 # upload temperature data to thingspeak
 for i in range(data_int):
     base_url = "https://api.thingspeak.com/update?api_key="
-    api_key = "3942YEUUFZ4G7EVF"
+    api_key = "XXXXXXXXXXXXXXXX"
     
     temp_mid_url_2 ='&field1='                                    # temperature field number
     temp_index = data_temp[i]                                     # index out the appropriate data based on iteration of loop
@@ -82,7 +82,7 @@ for i in range(data_int):
 # upload humidity data to thingspeak
 for i in range(data_int):
     base_url = "https://api.thingspeak.com/update?api_key="
-    api_key = "C54NK8QLLKB8S0NN"
+    api_key = "XXXXXXXXXXXXXXXX"
     
     hum_mid_url_1 ='&field1='                                     # humidity field number
     hum_index = data_hum[i]                                       # index out the appropriate data based on iteration of loop
