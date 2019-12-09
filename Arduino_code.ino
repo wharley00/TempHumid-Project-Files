@@ -2,7 +2,7 @@
 
   Arduino Humidity Sensor
 
-  By Jackson Long, William Harley, David Degman, Oscar Cisneros
+  By Students
   Fall 2019
   ENGR114 
 
